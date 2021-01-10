@@ -8,7 +8,7 @@ params:
     title: Oliver Andrich
     logo_img: images/logo.svg
     logo_img_alt: Oliver Andrich
-    has_nav: true
+    has_nav: false
     nav_links:
       - label: Home
         url: /
