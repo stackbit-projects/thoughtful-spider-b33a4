@@ -56,7 +56,7 @@ params:
         style: icon
         icon_class: fa-dev
         new_window: true
-    has_subscribe: true
+    has_subscribe: false
     subscribe_title: Subscribe for new updates
     subscribe_content: >-
       Subscribe to my email newsletter to receive useful articles and special
