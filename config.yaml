@@ -7,7 +7,7 @@ params:
   header:
     title: Oliver Andrich
     logo_img: images/logo.svg
-    logo_img_alt: Ampersand Logo
+    logo_img_alt: Oliver Andrich
     has_nav: true
     nav_links:
       - label: Home
