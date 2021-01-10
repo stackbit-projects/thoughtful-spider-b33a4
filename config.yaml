@@ -29,7 +29,7 @@ params:
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
       href="https://app.stackbit.com/create?theme=ampersand&utm_source=deployed-footer"
       target="_blank" rel="noopener">now</a>.
-    has_social: true
+    has_social: false
     social_links:
       - label: Twitter
         url: 'https://twitter.com/'
